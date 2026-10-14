@@ -54,7 +54,7 @@ SELECT
 FROM [dbo].[Raw_Transactions]
 GROUP BY CAST(TransactionDate AS DATE), ProductID, StoreID;
 ```
-### 3. 🛡️ Multi-Tenant Financial Risk & Operational Performance Hub
+### 3. 🛡️ [Multi-Tenant Financial Risk & Operational Performance Hub](https://github.com/antoneo-arber/powerbi-dynamic-rls-governance-framework)
 * **Business Challenge:** C-suite stakeholders required real-time financial risk dashboards, but multi-tenant healthcare and finance data required strict HIPAA and FINRA compliance.
 * **Execution:**
   * Developed dynamic **Row-Level Security (RLS)** and **Object-Level Security (OLS)** roles integrated with Azure Active Directory (Microsoft Entra ID) user groups.
