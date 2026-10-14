@@ -16,7 +16,7 @@ Specialized in migrating legacy reporting platforms (Tableau, Alteryx, SSRS) int
 | **Governance & DevOps** | Power BI Center of Excellence (CoE), Git Version Control, Deployment Pipelines, ALM Toolkit, Agile/Scrum Frameworks |
 ---
 ## 📁 Featured Projects & Architecture Case Studies
-### 1. 📦 Enterprise Inventory Forecasting Engine (Microsoft Fabric + Power BI)
+### 1. 📦 [Enterprise Inventory Forecasting Engine (Microsoft Fabric + Power BI)](https://github.com/antoneo-arber/fabric-direct-lake-retail-engine)
 * **Business Challenge:** High annual holding costs and supply chain bottlenecks caused by fragmented data across Shopify, Google Analytics, and 15+ internal APIs.
 * **Architectural Solution:**
   * Ingested real-time API data streams into a **Microsoft Fabric OneLake** Lakehouse environment using **Azure Data Factory** pipelines.
@@ -33,7 +33,7 @@ VAR SafetyStock = [AvgDailySales] * LeadTimeDays * 0.5
 RETURN
     (AvgDailySales * LeadTimeDays) + SafetyStock
 ```
-### 2. ⚡ Enterprise Semantic Model Optimization & Direct Lake Migration
+### 2. ⚡ [Enterprise Semantic Model Optimization & Direct Lake Migration](https://github.com/antoneo-arber/powerbi-performance-optimization-toolkit)
 * **Business Challenge:** Executive reports on a dataset of 20M+ rows were taking over 2 minutes to render, causing low stakeholder adoption and high server load.
 * **Execution & Technical Strategy:**
   * Restructured flat, denormalized tables into a pure **Kimball Star Schema** with single-direction 1-to-many relationships.
