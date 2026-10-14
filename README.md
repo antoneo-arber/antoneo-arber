@@ -1,4 +1,4 @@
-# Hi there, I'm Antoneo Arber 👋
+# Hi there, I'm Antoneo Arber
 ### Senior Power BI & Business Intelligence Solutions Architect
 📍 **Anna / Dallas-Fort Worth, TX** | ✉️ antoneoarber@gmail.com
 ---
