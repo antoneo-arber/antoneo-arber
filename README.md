@@ -72,7 +72,7 @@ LOOKUPVALUE(
 )
 ```
 ---
-### 4. 🏢 Center of Excellence (CoE) & Self-Service BI Governance Framework
+### 4. 🏢 [Center of Excellence (CoE) & Self-Service BI Governance Framework](https://github.com/antoneo-arber/powerbi-coe-self-service-governance)
 * **Business Challenge:** Unregulated report creation across departments resulted in duplicate metrics, inconsistent KPI definitions, and high IT ad-hoc ticket volume.
 * **Execution:**
   * Established an enterprise **Power BI Center of Excellence (CoE)** for 300+ business analysts.
